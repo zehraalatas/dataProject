@@ -1,0 +1,15 @@
+com\movierecommender\MaxHeap.class
+com\movierecommender\MovieRatingPanel$1.class
+com\movierecommender\MainFrame.class
+com\movierecommender\UserRecommendPanel$1.class
+com\movierecommender\UserSimilarity.class
+com\movierecommender\MovieRatingPanel$MovieChoice.class
+com\movierecommender\UserRecommendPanel.class
+com\movierecommender\GradientHeader$1.class
+com\movierecommender\MovieRatingPanel$2.class
+com\movierecommender\GradientHeader.class
+com\movierecommender\UserRecommendPanel$2.class
+com\movierecommender\Main.class
+com\movierecommender\RecommendationEngine.class
+com\movierecommender\MovieRatingPanel.class
+com\movierecommender\DataLoader.class
